@@ -22,10 +22,10 @@ Proporcionou primeiro contato com as tecnologias abaixo:
 [Salvando Musicas](https://github.com/offryan/OrangeTech-backend-bootcamp/tree/main/Desafios%20Intermedi%C3%A1rios/Salvando%20Musicas)<br>
 
 ### Desafio-Abstraindo um Bootcamp Usando Orientação a Objetos em Java
-[Abstraindo um Bootcamp Usando Orientação a Objetos em Java](https://github.com/CodesdaLu/OrangeTech_Backend/tree/main/Desafio-Abstraindo%20um%20Bootcamp%20Usando%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20em%20Java)<br>
+[Abstraindo um Bootcamp Usando Orientação a Objetos em Java](https://github.com/offryan/OrangeTech-backend-bootcamp/tree/main/Abstraindo%20um%20Bootcamp%20Usando%20POO)<br>
 
 ### Desafio- Explorando Padroes de Projeto em Java
-[Explorando Padroes de Projeto em Java](https://github.com/CodesdaLu/OrangeTech_Backend/tree/main/Desafio%20-%20Explorando%20Padr%C3%B5es%20de%20Projetos%20na%20Pr%C3%A1tica%20com%20Java/padroes-deprojeto-napratica)<br>
+[Explorando Padroes de Projeto em Java](https://github.com/offryan/OrangeTech-backend-bootcamp/tree/main/Explorando%20Padr%C3%B5es%20de%20Projetos%20na%20Pr%C3%A1tica%20com%20Java)<br>
 
 ### Desafio - API REST Padroes Projetos Spring
-[API REST Padroes Projetos Spring](https://github.com/CodesdaLu/OrangeTech_Backend/tree/main/API%20REST%20Padroes%20Projetos%20Spring)<br>
+[API REST Padroes Projetos Spring](https://github.com/offryan/OrangeTech-backend-bootcamp/tree/main/API%20REST%20-%20Spring)<br>
