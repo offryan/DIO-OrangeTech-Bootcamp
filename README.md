@@ -8,11 +8,11 @@ Proporcionou primeiro contato com as tecnologias abaixo:
 </div>
 
 ### Desafio Básico
-[Download de Pacotes](https://github.com/CodesdaLu/OrangeTech_Backend/tree/main/B%C3%A1sico/DownloaddePacotes)</br>
-[Industria da Multa](https://github.com/CodesdaLu/OrangeTech_Backend/tree/main/B%C3%A1sico/IndustriadaMulta)<br>
-[leitura da Gertrudes](https://github.com/CodesdaLu/OrangeTech_Backend/tree/main/B%C3%A1sico/LeituradaGertrudes)<br>
-[Lojinha de Doces](https://github.com/CodesdaLu/OrangeTech_Backend/tree/main/B%C3%A1sico/LojinhadeDoces)<br>
-[Mesada do Sobrinho](https://github.com/CodesdaLu/OrangeTech_Backend/tree/main/B%C3%A1sico/MesadadoSobrinho)<br>
+[Download de Pacotes](https://github.com/offryan/OrangeTech-backend-bootcamp/blob/main/Desafios%20B%C3%A1sicos/download_pacotes.java)</br>
+[Industria da Multa](https://github.com/offryan/OrangeTech-backend-bootcamp/blob/main/Desafios%20B%C3%A1sicos/IndustriadaMulta.java)<br>
+[leitura da Gertrudes](https://github.com/offryan/OrangeTech-backend-bootcamp/blob/main/Desafios%20B%C3%A1sicos/leituradaGertrudes.java)<br>
+[Lojinha de Doces](https://github.com/offryan/OrangeTech-backend-bootcamp/blob/main/Desafios%20B%C3%A1sicos/lojinhadeDoces.java)<br>
+[Mesada do Sobrinho](https://github.com/offryan/OrangeTech-backend-bootcamp/blob/main/Desafios%20B%C3%A1sicos/mesadadoSobrinho.java)<br>
 
 ### Desafio Intermediário
 [Camarote Blue Cold Ice Cubes](https://github.com/CodesdaLu/OrangeTech_Backend/tree/main/Intermediario/Camarote%20Blue%20Cold%20Ice%20Cubes)</br>
