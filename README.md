@@ -15,11 +15,11 @@ Proporcionou primeiro contato com as tecnologias abaixo:
 [Mesada do Sobrinho](https://github.com/offryan/OrangeTech-backend-bootcamp/blob/main/Desafios%20B%C3%A1sicos/mesadadoSobrinho.java)<br>
 
 ### Desafio Intermediário
-[Camarote Blue Cold Ice Cubes](https://github.com/CodesdaLu/OrangeTech_Backend/tree/main/Intermediario/Camarote%20Blue%20Cold%20Ice%20Cubes)</br>
-[Dc Monalds](https://github.com/CodesdaLu/OrangeTech_Backend/tree/main/Intermediario/Dc%20Monalds)<br>
-[Imoveis Disponíveis](https://github.com/CodesdaLu/OrangeTech_Backend/tree/main/Intermediario/Imoveus%20Disponiveis)<br>
-[Pontos na Carteira](https://github.com/CodesdaLu/OrangeTech_Backend/tree/main/Intermediario/Pontos%20na%20Carteira)<br>
-[Salvando Musicas](https://github.com/CodesdaLu/OrangeTech_Backend/tree/main/Intermediario/Salvando%20Musicas)<br>
+[Camarote Blue Cold Ice Cubes](https://github.com/offryan/OrangeTech-backend-bootcamp/tree/main/Desafios%20Intermedi%C3%A1rios/Camarote%20Blue%20Cold%20Ice%20Cubes)</br>
+[Dc Monalds](https://github.com/offryan/OrangeTech-backend-bootcamp/tree/main/Desafios%20Intermedi%C3%A1rios/Dc%20Monalds)<br>
+[Imoveis Disponíveis](https://github.com/offryan/OrangeTech-backend-bootcamp/tree/main/Desafios%20Intermedi%C3%A1rios/Imoveus%20Disponiveis)<br>
+[Pontos na Carteira](https://github.com/offryan/OrangeTech-backend-bootcamp/tree/main/Desafios%20Intermedi%C3%A1rios/Pontos%20na%20Carteira)<br>
+[Salvando Musicas](https://github.com/offryan/OrangeTech-backend-bootcamp/tree/main/Desafios%20Intermedi%C3%A1rios/Salvando%20Musicas)<br>
 
 ### Desafio-Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 [Abstraindo um Bootcamp Usando Orientação a Objetos em Java](https://github.com/CodesdaLu/OrangeTech_Backend/tree/main/Desafio-Abstraindo%20um%20Bootcamp%20Usando%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20em%20Java)<br>
